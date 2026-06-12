@@ -30,7 +30,7 @@ To the maximum extent permitted by law, we shall not be liable for any indirect,
 
 ## 6. Privacy
 
-Our handling of data is described in our [Privacy Policy]([LINK TO PRIVACY POLICY]). By using the bot, you also agree to that policy.
+Our handling of data is described in our [Privacy Policy](https://paints18.github.io/bomb-party/privacy-policy). By using the bot, you also agree to that policy.
 
 ## 7. Changes
 
